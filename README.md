@@ -1,26 +1,31 @@
 # Program-Level Budget vs Forecast Analysis (Nonprofit FP&A Simulation)
 
 ## Overview
-This project simulates a mid-year financial review process for a nonprofit organization, comparing program-level budgets to forecasted year-end spending based on actual performance.
 
-The goal is to identify potential overruns early and support data-driven decision-making.
+This project simulates a mid-year financial review for a nonprofit organization, comparing program-level budgets to projected year-end spending based on actual performance.
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
+The objective is to identify potential overruns early and support proactive, data-driven financial decision-making.
 
-## Key Analysis Steps
+## What This Analysis Covers
 - Calculated monthly run rate from year-to-date actuals
 - Forecasted full-year spending using current trends
 - Performed variance analysis (Budget vs Forecast)
 - Categorized programs as Over or Under Budget
 
 ## Key Insights
-- All programs are trending over budget based on current spending patterns
-- Health Services and Community Programs show the largest dollar variances
-- Housing Support has the highest percentage variance, indicating faster budget pressure
-- Mid-year forecasting helps identify areas requiring intervention before year-end
 
-## Why This Matters
-This type of analysis mirrors real-world FP&A responsibilities, where finance partners support leadership by identifying risks, reallocating resources, and improving financial planning accuracy.
+- All programs are trending over budget based on current spending patterns.
+- Health Services and Community Programs show the largest dollar variances, representing the highest financial risk.
+- Housing Support has the highest percentage variance, indicating faster budget pressure relative to its size.
+- Mid-year forecasting highlights areas requiring early intervention before year-end.
+
+## Business Application
+
+This analysis mirrors real-world FP&A responsibilities, where finance partners support leadership by identifying financial risks, prioritizing resource allocation, and improving forecast accuracy.
+
+It demonstrates how budget-to-forecast comparisons can drive earlier, more informed decision-making within organizations.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
