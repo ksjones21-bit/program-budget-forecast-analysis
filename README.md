@@ -1,5 +1,5 @@
 # Program-Level Budget vs Forecast Analysis (Nonprofit FP&A Simulation)
-
+Simulated FP&A workflow using Python to analyze budget performance and forecast year-end outcomes.
 ## Overview
 
 This project simulates a mid-year financial review for a nonprofit organization, comparing program-level budgets to projected year-end spending based on actual performance.
